@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 418.6 419.59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-1" d="M134.4,133.21v134.02H0V0H267.29V133.21H134.4Z"/>
+        <path class="cls-1" d="M418.6,419.59H150.32V150.35H418.6V419.59ZM166.34,165.61v236.67h236.9V165.61H166.34Z"/>
+        <path d="M166.34,165.61h236.9v236.67H166.34V165.61Zm45.34,45.17v146.17h146.23V210.77H211.68Z"/>
+        <path class="cls-1" d="M211.68,210.77h146.23v146.17H211.68V210.77Zm131.01,16.49h-115.78v113.79h115.78v-113.79Z"/>
+      </g>
+      <image width="520" height="520" transform="translate(166.8 165.93) scale(.45)" xlink:href="../../../../../../Users/emiliaglover/Desktop/17f80e0e173f0518400fd4a55eddd4ed.jpg"/>
+      <polygon class="cls-1" points="360.23 88.19 360.23 57.2 360.23 57.2 360.23 56.83 329.24 56.83 329.24 46.33 312.5 60.06 329.24 73.8 329.24 63.3 353.76 63.3 353.76 85.92 353.76 85.92 353.76 88.19 343.26 88.19 356.99 104.93 370.73 88.19 360.23 88.19"/>
+    </g>
+  </g>
+</svg>
