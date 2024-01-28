@@ -89,8 +89,9 @@ html{
   }
 
 .prof{
-    max-width: 100px;
-    padding-top: 1.5vh;
+    width:100px;
+    max-width: 150px;
+    padding-top: 1vh;
     padding-bottom: 0.75vh;
 }
 
